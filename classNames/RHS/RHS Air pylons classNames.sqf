@@ -1,8 +1,10 @@
 /* ================= AIR–AIR (AAM) ================= */
 [
-    "rhs_mag_Sidewinder","rhs_mag_Sidewinder_2",
+    "rhs_mag_Sidewinder",
+    "rhs_mag_Sidewinder_2",
     "rhs_mag_Sidewinder_int",
-    "rhs_mag_Sidewinder_heli","rhs_mag_Sidewinder_heli_2",
+    "rhs_mag_Sidewinder_heli",
+    "rhs_mag_Sidewinder_heli_2",
 
     "rhs_mag_aim9m",
     "rhs_mag_aim9m_2",
