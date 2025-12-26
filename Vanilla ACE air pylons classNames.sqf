@@ -1,0 +1,147 @@
+/* ================= AIR–AIR (AAM) ================= */
+[
+    "PylonRack_1Rnd_Missile_AA_04_F",
+    "PylonRack_1Rnd_Missile_AA_03_F",
+    "PylonRack_Missile_AMRAAM_C_x1",
+    "PylonRack_Missile_AMRAAM_C_x2",
+    "PylonRack_Missile_AMRAAM_D_x1",
+    "PylonRack_Missile_AMRAAM_D_x2",
+    "PylonMissile_Missile_AMRAAM_D_INT_x1",
+    "PylonRack_Missile_BIM9X_x1",
+    "PylonRack_Missile_BIM9X_x2",
+    "PylonMissile_Missile_BIM9X_x1",
+    "PylonMissile_Missile_AA_R73_x1",
+    "PylonMissile_Missile_AA_R77_x1",
+    "PylonMissile_Missile_AA_R77_INT_x1",
+    "ace_missile_aim9_PylonRack_1Rnd_Missile_9m",
+    "ace_missile_aim9_PylonRack_1Rnd_aim132",
+    "ace_missile_aim9_PylonRack_Missile_9x",
+    "ace_missile_aim9_PylonRack_Missile_9x_2",
+    "ace_missile_aim9_PylonMissile_Missile_9x",
+    "ace_missile_aim9_PylonMissile_Missile_R73_x1",
+    "ace_missile_aim120_PylonRack_1Rnd_a",
+    "ace_missile_aim120_PylonRack_Missile_c_x1",
+    "ace_missile_aim120_PylonRack_Missile_c_x2",
+    "ace_missile_aim120_PylonRack_Missile_d_x1",
+    "ace_missile_aim120_PylonRack_Missile_d_x2",
+    "ace_missile_aim120_PylonMissile_Missile_d_INT_x1",
+    "ace_missile_aim120_PylonMissile_Missile_R77_x1",
+    "ace_missile_aim120_PylonMissile_Missile_R77__INT_x1"
+]
+
+/* ================= AIR–GROUND MISSILES (AGM / ATGM) ================= */
+[
+    "PylonRack_1Rnd_Missile_AGM_01_F",
+    "PylonRack_1Rnd_Missile_AGM_02_F",
+    "PylonRack_3Rnd_Missile_AGM_02_F",
+    "PylonRack_Missile_AGM_02_x1",
+    "PylonRack_Missile_AGM_02_x2",
+    "PylonMissile_Missile_AGM_KH25_x1",
+    "PylonMissile_Missile_AGM_KH25_INT_x1",
+    "PylonMissile_Missile_KH58_x1",
+    "PylonMissile_Missile_KH58_INT_x1",
+    "ace_maverick_D_pylonRack_1Rnd",
+    "ace_maverick_D_pylonRack_3Rnd",
+    "ace_maverick_G_pylonRack_1Rnd",
+    "ace_maverick_G_PylonRack_3Rnd",
+    "ace_maverick_G_PylonRack_x1",
+    "ace_maverick_G_PylonRack_x2",
+    "ace_maverick_L_pylonRack_1Rnd",
+    "ace_maverick_L_PylonRack_3Rnd",
+    "ace_maverick_L_PylonRack_x1",
+    "ace_maverick_L_PylonRack_x2",
+    "ace_kh25ml_pylonrack_x1",
+    "ace_kh25ml_pylonmissile_x1",
+    "ace_kh25ml_pylonmissile_int_x1",
+    "ace_missile_vikhr_PylonRack_1Rnd",
+    "ace_missile_vikhr_PylonRack_3Rnd",
+    "ace_missile_vikhr_PylonRack_4Rnd",
+    "ace_missile_vikhr_PylonMissile_1Rnd"
+]
+
+/* ================= HELICOPTER ATGM ================= */
+[
+    "PylonRack_1Rnd_LG_scalpel",
+    "PylonRack_3Rnd_LG_scalpel",
+    "PylonRack_4Rnd_LG_scalpel",
+    "PylonMissile_1Rnd_LG_scalpel",
+    "PylonRack_1Rnd_ACE_Hellfire_AGM114K",
+    "PylonRack_3Rnd_ACE_Hellfire_AGM114K",
+    "PylonRack_4Rnd_ACE_Hellfire_AGM114K",
+    "PylonRack_1Rnd_ACE_Hellfire_AGM114N",
+    "PylonRack_3Rnd_ACE_Hellfire_AGM114N",
+    "PylonRack_4Rnd_ACE_Hellfire_AGM114N",
+    "PylonRack_1Rnd_ACE_Hellfire_AGM114L",
+    "PylonRack_3Rnd_ACE_Hellfire_AGM114L",
+    "PylonRack_4Rnd_ACE_Hellfire_AGM114L",
+    "PylonMissile_1Rnd_ACE_Hellfire_AGM114K",
+    "PylonMissile_1Rnd_ACE_Hellfire_AGM114N",
+    "PylonMissile_1Rnd_ACE_Hellfire_AGM114L",
+    "ace_hot_1_PylonRack_1Rnd",
+    "ace_hot_1_PylonRack_3Rnd",
+    "ace_hot_1_PylonRack_4Rnd",
+    "ace_hot_2_PylonRack_1Rnd",
+    "ace_hot_2_PylonRack_3Rnd",
+    "ace_hot_2_PylonRack_4Rnd",
+    "ace_hot_2MP_PylonRack_1Rnd",
+    "ace_hot_2MP_PylonRack_3Rnd",
+    "ace_hot_2MP_PylonRack_4Rnd",
+    "ace_hot_3_PylonRack_1Rnd",
+    "ace_hot_3_PylonRack_3Rnd",
+    "ace_hot_3_PylonRack_4Rnd",
+    "ace_hot_1_PylonMissile_1Rnd",
+    "ace_hot_2_PylonMissile_1Rnd",
+    "ace_hot_2MP_PylonMissile_1Rnd",
+    "ace_hot_3_PylonMissile_1Rnd"
+]
+
+/* ================= BOMBS / CLUSTER ================= */
+[
+    "PylonMissile_1Rnd_Bomb_03_F",
+    "PylonMissile_1Rnd_Bomb_04_F",
+    "PylonMissile_1Rnd_Mk82_F",
+    "PylonMissile_Bomb_GBU12_x1",
+    "PylonRack_Bomb_GBU12_x2",
+    "PylonMissile_Bomb_KAB250_x1",
+    "PylonRack_Bomb_SDB_x4",
+    "PylonMissile_1Rnd_BombCluster_01_F",
+    "PylonRack_2Rnd_BombCluster_01_F",
+    "PylonMissile_1Rnd_BombCluster_02_F",
+    "PylonMissile_1Rnd_BombCluster_02_cap_F",
+    "PylonMissile_1Rnd_BombCluster_03_F",
+    "PylonRack_2Rnd_BombCluster_03_F",
+    "ace_missile_gbu_1_PylonMissile_1Rnd_12",
+    "ace_missile_gbu_PylonMissile_Bomb_GBU12_x1",
+    "ace_missile_gbu_PylonRack_Bomb_GBU12_x2",
+    "ace_missile_gbu_1_PylonMissile_1Rnd_FAB250",
+    "ace_missile_gbu_PylonMissile_1Rnd_FAB250",
+    "ace_missile_sdb_PylonRack_bomb_SDB_x4"
+]
+
+/* ================= ROCKET PODS / NAR ================= */
+[
+    "PylonRack_7Rnd_Rocket_04_HE_F",
+    "PylonRack_7Rnd_Rocket_04_AP_F",
+    "PylonRack_12Rnd_PG_missiles",
+    "PylonRack_12Rnd_PGM_missiles",
+    "PylonRack_12Rnd_missiles",
+    "PylonRack_19Rnd_Rocket_Skyfire",
+    "PylonRack_20Rnd_Rocket_03_HE_F",
+    "PylonRack_20Rnd_Rocket_03_AP_F",
+    "PylonRack_6Rnd_ACE_DAGR",
+    "PylonRack_12Rnd_ACE_DAGR",
+    "PylonRack_24Rnd_ACE_DAGR"
+]
+
+/* ================= GUN PODS ================= */
+[
+    "PylonWeapon_300Rnd_20mm_shells",
+    "PylonWeapon_2000Rnd_65x39_belt"
+]
+
+/* ================= ECM / EW ================= */
+[
+    "PylonRack_1Rnd_AAA_missiles",
+    "PylonMissile_1Rnd_AAA_missiles",
+    "PylonRack_1Rnd_GAA_missiles"
+]
