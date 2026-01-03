@@ -1,0 +1,74 @@
+--Vanilla
+West:
+BLU_F (NATO)
+BLU_G_F (FIA)
+BLU_T_F (Pacific NATO, Apex Expansion)
+BLU_CTRG_F (Pacific CTRG, Apex Expansion)
+BLU_GEN_F (Gendarmerie, Apex Expansion)
+BLU_W_F (Woodland NATO, Contact Expansion)
+
+East:
+OPF_F (Iranian CSAT)
+OPF_G_F (FIA)
+OPF_T_F (Chinese CSAT, Apex Expansion)
+OPF_R_F (Spetznatz, Contact Expansion)
+
+Indep:
+IND_F (AAF)
+IND_G_F (FIA)
+IND_C_F (Syndikat, Apex Expansion)
+IND_E_F (LDF, Contact Expansion)
+IND_L_F (Looters, Contact Expansion)
+
+Civilian:
+CIV_F
+CIV_IDAP_F (Laws of War DLC)
+--
+
+
+--- CDLC
+
+--GM
+West:
+gm_fc_ge (West Gernamy)
+gm_fc_ge_bgs (West Gernamy Borderguards)
+gm_fc_GE_win_blu (Deutschland Winter)
+gm_fc_GE_des_blu (Deutschland Desert)
+gm_fc_dk (Denmark)
+
+East:
+gm_fc_pl (Poland)
+gm_fc_gc_bgs (East Gernamy Borderguards)
+gm_fc_gc (East Gernamy)
+gm_fc_GC_win_opfor (DDR Winter)
+gm_fc_GC_un (DDR UN)
+
+Indep:
+gm_fc_DK_Indep (Denmark)
+gm_fc_DK_Indep_win (Denmark Winter)
+gm_fc_xx (Revolutionaries)
+
+Civilian:
+gm_fc_gc_civ (East Gernamy)
+gm_fc_ge_civ (West Gernamy)
+--
+
+--SOG
+West:
+VN_AUS
+VN_MACV
+VN_NZ
+VN_ROK
+
+East:
+VN_PAVN
+VN_PL
+VN_VC
+
+Indep:
+VN_ARVN
+VN_RLA
+
+Civilian:
+VN_VIET
+--
